@@ -1,0 +1,449 @@
+{
+ "last_date": "2026-11-14",
+ "runs": [
+  {
+   "run": "2026-10-18",
+   "days": [
+    {
+     "date": "2026-10-18",
+     "boe": "none"
+    }
+   ]
+  },
+  {
+   "run": "2026-10-19",
+   "days": [
+    {
+     "date": "2026-10-19",
+     "entries": 261,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-20",
+   "days": [
+    {
+     "date": "2026-10-20",
+     "entries": 257,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-21",
+   "days": [
+    {
+     "date": "2026-10-21",
+     "entries": 163,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-22",
+   "days": [
+    {
+     "date": "2026-10-22",
+     "entries": 248,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-23",
+   "days": [
+    {
+     "date": "2026-10-23",
+     "entries": 284,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-24",
+   "days": [
+    {
+     "date": "2026-10-24",
+     "entries": 326,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-25",
+   "days": [
+    {
+     "date": "2026-10-25",
+     "boe": "none"
+    }
+   ]
+  },
+  {
+   "run": "2026-10-26",
+   "days": [
+    {
+     "date": "2026-10-26",
+     "entries": 324,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-27",
+   "days": [
+    {
+     "date": "2026-10-27",
+     "entries": 290,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-20",
+     "updated": 125,
+     "cited": 104,
+     "hits": 7
+    }
+   ]
+  },
+  {
+   "run": "2026-10-28",
+   "days": [
+    {
+     "date": "2026-10-28",
+     "entries": 183,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-10-27",
+     "updated": 24,
+     "cited": 104,
+     "hits": 3
+    }
+   ]
+  },
+  {
+   "run": "2026-10-29",
+   "days": [
+    {
+     "date": "2026-10-29",
+     "entries": 216,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-28",
+     "updated": 32,
+     "cited": 125,
+     "hits": 2
+    }
+   ]
+  },
+  {
+   "run": "2026-10-30",
+   "days": [
+    {
+     "date": "2026-10-30",
+     "entries": 193,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-29",
+     "updated": 60,
+     "cited": 127,
+     "hits": 2
+    }
+   ]
+  },
+  {
+   "run": "2026-10-31",
+   "days": [
+    {
+     "date": "2026-10-31",
+     "entries": 369,
+     "hits": 1
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-01",
+   "days": [
+    {
+     "date": "2026-11-01",
+     "boe": "none"
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-02",
+   "days": [
+    {
+     "date": "2026-11-02",
+     "entries": 132,
+     "hits": 0
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-03",
+   "days": [
+    {
+     "date": "2026-11-03",
+     "entries": 240,
+     "hits": 1
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-04",
+   "days": [
+    {
+     "date": "2026-11-04",
+     "entries": 232,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-30",
+     "updated": 82,
+     "cited": 163,
+     "hits": 2
+    }
+   ]
+  },
+  {
+   "run": "2026-11-05",
+   "days": [
+    {
+     "date": "2026-11-05",
+     "entries": 205,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-11-04",
+     "updated": 51,
+     "cited": 167,
+     "hits": 4
+    }
+   ]
+  },
+  {
+   "run": "2026-11-06",
+   "days": [
+    {
+     "date": "2026-11-06",
+     "entries": 191,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-05",
+     "updated": 59,
+     "cited": 168,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-07",
+   "days": [
+    {
+     "date": "2026-11-07",
+     "entries": 304,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-11-06",
+     "updated": 36,
+     "cited": 182,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-08",
+   "days": [
+    {
+     "date": "2026-11-08",
+     "boe": "none"
+    },
+    {
+     "laws_since": "2026-11-07",
+     "updated": 0,
+     "cited": 182,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-09",
+   "days": [
+    {
+     "date": "2026-11-09",
+     "entries": 152,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-08",
+     "updated": 22,
+     "cited": 182,
+     "hits": 1
+    }
+   ]
+  },
+  {
+   "run": "2026-11-09",
+   "days": [
+    {
+     "laws_since": "2026-11-09",
+     "updated": 22,
+     "cited": 182,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-10",
+   "days": [
+    {
+     "date": "2026-11-10",
+     "entries": 259,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-09",
+     "updated": 31,
+     "cited": 187,
+     "hits": 1
+    }
+   ]
+  },
+  {
+   "run": "2026-11-11",
+   "days": [
+    {
+     "date": "2026-11-11",
+     "entries": 187,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-10",
+     "updated": 84,
+     "cited": 194,
+     "hits": 9
+    }
+   ]
+  },
+  {
+   "run": "2026-11-12",
+   "days": [
+    {
+     "date": "2026-11-12",
+     "entries": 210,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-11",
+     "updated": 58,
+     "cited": 194,
+     "hits": 5
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-12",
+     "entries": 4,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-12",
+     "entries": 336,
+     "hits": 1
+    }
+   ]
+  },
+  {
+   "run": "2026-11-13",
+   "days": [
+    {
+     "date": "2026-11-13",
+     "entries": 271,
+     "hits": 2
+    },
+    {
+     "laws_since": "2026-11-12",
+     "updated": 55,
+     "cited": 194,
+     "hits": 6
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-13",
+     "entries": 3,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-13",
+     "entries": 209,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-14",
+   "days": [
+    {
+     "date": "2026-11-14",
+     "entries": 388,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-13",
+     "updated": 27,
+     "cited": 194,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-13",
+     "entries": 4,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-13",
+     "entries": 252,
+     "hits": 0
+    }
+   ]
+  }
+ ],
+ "laws_since": "2026-11-14",
+ "packs": {
+  "PT": {
+   "I": [
+    "2026-11-12",
+    "2026-11-13"
+   ],
+   "II": [
+    "2026-11-12",
+    "2026-11-13"
+   ]
+  }
+ }
+}
