@@ -1,0 +1,112 @@
+{
+ "about": "One line per run of this job (kb/run_log.py, audit A2-018): when, where and its main counts.",
+ "runs": [
+  {
+   "at": "2026-11-18T02:20:35Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-18",
+   "links": 16389,
+   "checked": 14323,
+   "skipped_blocked": 2066,
+   "changes": {
+    "broken": 46,
+    "content_changed": 1020,
+    "recovered": 122,
+    "moved": 14,
+    "refusing": 5,
+    "new": 7,
+    "figure_missing": 1,
+    "anchor_changed": 45
+   },
+   "cards": {
+    "confirmed": 7045,
+    "blocked": 684,
+    "unreadable": 136,
+    "flagged": 38,
+    "watched": 255,
+    "anchored": 14
+   }
+  },
+  {
+   "at": "2026-11-19T02:18:22Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-19",
+   "links": 19759,
+   "checked": 17682,
+   "skipped_blocked": 2077,
+   "changes": {
+    "broken": 131,
+    "content_changed": 960,
+    "recovered": 188,
+    "new": 463,
+    "moved": 10,
+    "refusing": 69,
+    "figure_missing": 4,
+    "anchor_changed": 58
+   },
+   "cards": {
+    "confirmed": 7027,
+    "flagged": 47,
+    "blocked": 828,
+    "unreadable": 152,
+    "anchored": 1635,
+    "watched": 353
+   }
+  },
+  {
+   "at": "2026-11-20T02:26:54Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-20",
+   "links": 20674,
+   "checked": 18325,
+   "skipped_blocked": 2349,
+   "changes": {
+    "broken": 94,
+    "content_changed": 1176,
+    "recovered": 240,
+    "new": 106,
+    "refusing": 29,
+    "moved": 108,
+    "figure_missing": 1,
+    "anchor_changed": 159
+   },
+   "cards": {
+    "confirmed": 8303,
+    "anchored": 431,
+    "blocked": 912,
+    "unreadable": 256,
+    "watched": 357,
+    "flagged": 114
+   }
+  },
+  {
+   "at": "2026-11-21T02:21:05Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-21",
+   "links": 20676,
+   "checked": 18258,
+   "skipped_blocked": 2418,
+   "changes": {
+    "content_changed": 1238,
+    "refusing": 4,
+    "recovered": 381,
+    "moved": 40,
+    "broken": 60,
+    "figure_missing": 5,
+    "anchor_changed": 103
+   },
+   "cards": {
+    "confirmed": 8826,
+    "unreadable": 219,
+    "blocked": 834,
+    "flagged": 98,
+    "anchored": 65,
+    "watched": 331
+   }
+  }
+ ]
+}
