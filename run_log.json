@@ -1,0 +1,45 @@
+{
+ "about": "One line per run of this job (kb/run_log.py, audit A2-018): when, where and its main counts.",
+ "runs": [
+  {
+   "at": "2026-11-18T09:17:19Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-18",
+   "days_read": 12,
+   "entries": 1026,
+   "hits": 9,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-19T09:18:04Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-19",
+   "days_read": 21,
+   "entries": 1833,
+   "hits": 5,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-20T09:17:23Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-20",
+   "days_read": 14,
+   "entries": 1309,
+   "hits": 5,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-21T09:17:20Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-21",
+   "days_read": 14,
+   "entries": 1320,
+   "hits": 4,
+   "boe_missing": []
+  }
+ ]
+}

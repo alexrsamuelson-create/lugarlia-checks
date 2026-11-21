@@ -1,0 +1,1157 @@
+{
+ "last_date": "2026-11-21",
+ "runs": [
+  {
+   "run": "2026-10-23",
+   "days": [
+    {
+     "date": "2026-10-23",
+     "entries": 284,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-24",
+   "days": [
+    {
+     "date": "2026-10-24",
+     "entries": 326,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-25",
+   "days": [
+    {
+     "date": "2026-10-25",
+     "boe": "none"
+    }
+   ]
+  },
+  {
+   "run": "2026-10-26",
+   "days": [
+    {
+     "date": "2026-10-26",
+     "entries": 324,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-10-27",
+   "days": [
+    {
+     "date": "2026-10-27",
+     "entries": 290,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-20",
+     "updated": 125,
+     "cited": 104,
+     "hits": 7
+    }
+   ]
+  },
+  {
+   "run": "2026-10-28",
+   "days": [
+    {
+     "date": "2026-10-28",
+     "entries": 183,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-10-27",
+     "updated": 24,
+     "cited": 104,
+     "hits": 3
+    }
+   ]
+  },
+  {
+   "run": "2026-10-29",
+   "days": [
+    {
+     "date": "2026-10-29",
+     "entries": 216,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-28",
+     "updated": 32,
+     "cited": 125,
+     "hits": 2
+    }
+   ]
+  },
+  {
+   "run": "2026-10-30",
+   "days": [
+    {
+     "date": "2026-10-30",
+     "entries": 193,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-29",
+     "updated": 60,
+     "cited": 127,
+     "hits": 2
+    }
+   ]
+  },
+  {
+   "run": "2026-10-31",
+   "days": [
+    {
+     "date": "2026-10-31",
+     "entries": 369,
+     "hits": 1
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-01",
+   "days": [
+    {
+     "date": "2026-11-01",
+     "boe": "none"
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-02",
+   "days": [
+    {
+     "date": "2026-11-02",
+     "entries": 132,
+     "hits": 0
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-03",
+   "days": [
+    {
+     "date": "2026-11-03",
+     "entries": 240,
+     "hits": 1
+    },
+    {
+     "laws_error": "HTTP Error 500: Internal Server Error"
+    }
+   ]
+  },
+  {
+   "run": "2026-11-04",
+   "days": [
+    {
+     "date": "2026-11-04",
+     "entries": 232,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-10-30",
+     "updated": 82,
+     "cited": 163,
+     "hits": 2
+    }
+   ]
+  },
+  {
+   "run": "2026-11-05",
+   "days": [
+    {
+     "date": "2026-11-05",
+     "entries": 205,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-11-04",
+     "updated": 51,
+     "cited": 167,
+     "hits": 4
+    }
+   ]
+  },
+  {
+   "run": "2026-11-06",
+   "days": [
+    {
+     "date": "2026-11-06",
+     "entries": 191,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-05",
+     "updated": 59,
+     "cited": 168,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-07",
+   "days": [
+    {
+     "date": "2026-11-07",
+     "entries": 304,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-11-06",
+     "updated": 36,
+     "cited": 182,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-08",
+   "days": [
+    {
+     "date": "2026-11-08",
+     "boe": "none"
+    },
+    {
+     "laws_since": "2026-11-07",
+     "updated": 0,
+     "cited": 182,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-09",
+   "days": [
+    {
+     "date": "2026-11-09",
+     "entries": 152,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-08",
+     "updated": 22,
+     "cited": 182,
+     "hits": 1
+    }
+   ]
+  },
+  {
+   "run": "2026-11-09",
+   "days": [
+    {
+     "laws_since": "2026-11-09",
+     "updated": 22,
+     "cited": 182,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-10",
+   "days": [
+    {
+     "date": "2026-11-10",
+     "entries": 259,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-09",
+     "updated": 31,
+     "cited": 187,
+     "hits": 1
+    }
+   ]
+  },
+  {
+   "run": "2026-11-11",
+   "days": [
+    {
+     "date": "2026-11-11",
+     "entries": 187,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-10",
+     "updated": 84,
+     "cited": 194,
+     "hits": 9
+    }
+   ]
+  },
+  {
+   "run": "2026-11-12",
+   "days": [
+    {
+     "date": "2026-11-12",
+     "entries": 210,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-11",
+     "updated": 58,
+     "cited": 194,
+     "hits": 5
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-12",
+     "entries": 4,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-12",
+     "entries": 336,
+     "hits": 1
+    }
+   ]
+  },
+  {
+   "run": "2026-11-13",
+   "days": [
+    {
+     "date": "2026-11-13",
+     "entries": 271,
+     "hits": 2
+    },
+    {
+     "laws_since": "2026-11-12",
+     "updated": 55,
+     "cited": 194,
+     "hits": 6
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-13",
+     "entries": 3,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-13",
+     "entries": 209,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-14",
+   "days": [
+    {
+     "date": "2026-11-14",
+     "entries": 388,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-13",
+     "updated": 27,
+     "cited": 194,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-13",
+     "entries": 4,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-13",
+     "entries": 252,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-15",
+   "days": [
+    {
+     "date": "2026-11-15",
+     "boe": "none"
+    },
+    {
+     "laws_since": "2026-11-14",
+     "updated": 0,
+     "cited": 196,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-13",
+     "entries": 4,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-13",
+     "entries": 252,
+     "hits": 0
+    }
+   ]
+  },
+  {
+   "run": "2026-11-16",
+   "days": [
+    {
+     "date": "2026-11-16",
+     "entries": 273,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-15",
+     "updated": 23,
+     "cited": 249,
+     "hits": 3
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-16",
+     "entries": 4,
+     "hits": 2,
+     "after": "2026-11-13"
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-16",
+     "entries": 241,
+     "hits": 1,
+     "after": "2026-11-13"
+    },
+    {
+     "gazette": "BOJA",
+     "issues": 5,
+     "entries": 143,
+     "staff_or_court": 30
+    },
+    {
+     "gazette": "BOCM",
+     "issues": 7,
+     "entries": 494,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "DOG",
+     "issues": 1,
+     "entries": 49,
+     "staff_or_court": 13
+    },
+    {
+     "gazette": "BOCYL",
+     "issues": 1,
+     "entries": 54,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "BOCAN",
+     "issues": 5,
+     "entries": 84,
+     "staff_or_court": 1
+    },
+    {
+     "gazette": "BOA",
+     "issues": 8,
+     "entries": 219,
+     "staff_or_court": 76
+    },
+    {
+     "gazette": "BOIB",
+     "issues": 4,
+     "entries": 278,
+     "staff_or_court": 80
+    },
+    {
+     "regional_hits": 15,
+     "dropped": {
+      "no rule or no cards": 651,
+      "notice to named people": 141,
+      "town not live": 287,
+      "other local body": 27
+     }
+    }
+   ]
+  },
+  {
+   "run": "2026-11-17",
+   "days": [
+    {
+     "date": "2026-11-17",
+     "entries": 288,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-16",
+     "updated": 154,
+     "cited": 249,
+     "hits": 4
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-17",
+     "entries": 2,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-17",
+     "entries": 191,
+     "hits": 0
+    },
+    {
+     "gazette": "BOJA",
+     "issues": 2,
+     "entries": 175,
+     "staff_or_court": 37
+    },
+    {
+     "gazette": "BOCM",
+     "issues": 1,
+     "entries": 120,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "DOG",
+     "issues": 1,
+     "entries": 50,
+     "staff_or_court": 8
+    },
+    {
+     "gazette": "BOCYL",
+     "issues": 1,
+     "entries": 45,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "BOCAN",
+     "issues": 2,
+     "entries": 118,
+     "staff_or_court": 1
+    },
+    {
+     "gazette": "BOA",
+     "issues": 1,
+     "entries": 38,
+     "staff_or_court": 14
+    },
+    {
+     "gazette": "BOIB",
+     "issues": 1,
+     "entries": 64,
+     "staff_or_court": 12
+    },
+    {
+     "regional_hits": 4,
+     "dropped": {
+      "no rule or no cards": 340,
+      "notice to named people": 86,
+      "town not live": 97,
+      "other local body": 10
+     }
+    }
+   ]
+  },
+  {
+   "run": "2026-11-18",
+   "days": [
+    {
+     "date": "2026-11-18",
+     "entries": 145,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-11-17",
+     "updated": 152,
+     "cited": 249,
+     "hits": 4
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-18",
+     "entries": 5,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-18",
+     "entries": 266,
+     "hits": 4
+    },
+    {
+     "gazette": "BOJA",
+     "issues": 1,
+     "entries": 248,
+     "staff_or_court": 50
+    },
+    {
+     "gazette": "BOCM",
+     "issues": 1,
+     "entries": 98,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "DOG",
+     "issues": 1,
+     "entries": 57,
+     "staff_or_court": 17
+    },
+    {
+     "gazette": "BOCYL",
+     "issues": 1,
+     "entries": 31,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "BOCAN",
+     "issues": 1,
+     "entries": 139,
+     "staff_or_court": 1
+    },
+    {
+     "gazette": "BOA",
+     "issues": 1,
+     "entries": 37,
+     "staff_or_court": 17
+    },
+    {
+     "gazette": "BOIB",
+     "issues": 0,
+     "entries": 0,
+     "staff_or_court": 0
+    },
+    {
+     "regional_hits": 2,
+     "dropped": {
+      "no rule or no cards": 340,
+      "notice to named people": 100,
+      "town not live": 74,
+      "other local body": 5
+     }
+    }
+   ]
+  },
+  {
+   "run": "2026-11-19",
+   "days": [
+    {
+     "date": "2026-11-19",
+     "entries": 243,
+     "hits": 1
+    },
+    {
+     "laws_since": "2026-11-18",
+     "updated": 65,
+     "cited": 249,
+     "hits": 3
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261115-002320.tar.gz",
+     "issue": "2026-11-15",
+     "entries": 60,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261115-205552.tar.gz",
+     "issue": "2026-11-15",
+     "entries": 45,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261116-104909.tar.gz",
+     "issue": "2026-11-15",
+     "entries": 1,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261116-212357.tar.gz",
+     "issue": "2026-11-15",
+     "entries": 54,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261117-014236.tar.gz",
+     "issue": "2026-11-17",
+     "entries": 72,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261117-212708.tar.gz",
+     "issue": "2026-11-17",
+     "entries": 54,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261118-002608.tar.gz",
+     "issue": "2026-11-18",
+     "entries": 109,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261118-214555.tar.gz",
+     "issue": "2026-11-18",
+     "entries": 85,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261119-020543.tar.gz",
+     "issue": "2026-11-19",
+     "entries": 148,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-19",
+     "entries": 18,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-19",
+     "entries": 268,
+     "hits": 1
+    },
+    {
+     "gazette": "BOJA",
+     "issues": 3,
+     "entries": 254,
+     "staff_or_court": 47
+    },
+    {
+     "gazette": "BOCM",
+     "issues": 1,
+     "entries": 62,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "DOG",
+     "issues": 1,
+     "entries": 47,
+     "staff_or_court": 8
+    },
+    {
+     "gazette": "BOCYL",
+     "issues": 1,
+     "entries": 47,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "BOCAN",
+     "issues": 1,
+     "entries": 156,
+     "staff_or_court": 1
+    },
+    {
+     "gazette": "BOA",
+     "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    },
+    {
+     "gazette": "BOIB",
+     "issues": 1,
+     "entries": 110,
+     "staff_or_court": 23
+    },
+    {
+     "regional_hits": 7,
+     "dropped": {
+      "no rule or no cards": 354,
+      "notice to named people": 91,
+      "town not live": 117,
+      "other local body": 23
+     }
+    }
+   ]
+  },
+  {
+   "run": "2026-11-20",
+   "days": [
+    {
+     "date": "2026-11-20",
+     "entries": 282,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-19",
+     "updated": 63,
+     "cited": 249,
+     "hits": 5
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261119-214726.tar.gz",
+     "issue": "2026-11-19",
+     "entries": 112,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261120-004838.tar.gz",
+     "issue": "2026-11-20",
+     "entries": 133,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-20",
+     "entries": 7,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-20",
+     "entries": 237,
+     "hits": 0
+    },
+    {
+     "gazette": "BOJA",
+     "issues": 3,
+     "entries": 154,
+     "staff_or_court": 40
+    },
+    {
+     "gazette": "BOCM",
+     "issues": 1,
+     "entries": 62,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "DOG",
+     "issues": 1,
+     "entries": 51,
+     "staff_or_court": 7
+    },
+    {
+     "gazette": "BOCYL",
+     "issues": 1,
+     "entries": 42,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "BOCAN",
+     "issues": 1,
+     "entries": 163,
+     "staff_or_court": 1
+    },
+    {
+     "gazette": "BOA",
+     "issues": 2,
+     "entries": 65,
+     "staff_or_court": 24
+    },
+    {
+     "gazette": "BOIB",
+     "issues": 1,
+     "entries": 1,
+     "staff_or_court": 0
+    },
+    {
+     "regional_hits": 5,
+     "dropped": {
+      "no rule or no cards": 336,
+      "notice to named people": 66,
+      "town not live": 47,
+      "other local body": 9
+     }
+    }
+   ]
+  },
+  {
+   "run": "2026-11-21",
+   "days": [
+    {
+     "date": "2026-11-21",
+     "entries": 285,
+     "hits": 0
+    },
+    {
+     "laws_since": "2026-11-20",
+     "updated": 46,
+     "cited": 250,
+     "hits": 2
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261120-222218.tar.gz",
+     "issue": "2026-11-20",
+     "entries": 91,
+     "hits": 0
+    },
+    {
+     "country": "FR",
+     "series": "JORF",
+     "archive": "JORF_20261121-010907.tar.gz",
+     "issue": "2026-11-21",
+     "entries": 86,
+     "hits": 1
+    },
+    {
+     "country": "PT",
+     "series": "I",
+     "issue": "2026-11-20",
+     "entries": 8,
+     "hits": 0
+    },
+    {
+     "country": "PT",
+     "series": "II",
+     "issue": "2026-11-20",
+     "entries": 287,
+     "hits": 1
+    },
+    {
+     "gazette": "BOJA",
+     "issues": 1,
+     "entries": 155,
+     "staff_or_court": 39
+    },
+    {
+     "gazette": "BOCM",
+     "issues": 1,
+     "entries": 32,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "DOG",
+     "issues": 0,
+     "entries": 51,
+     "staff_or_court": 7
+    },
+    {
+     "gazette": "BOCYL",
+     "issues": 0,
+     "entries": 42,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "BOCAN",
+     "issues": 0,
+     "entries": 163,
+     "staff_or_court": 1
+    },
+    {
+     "gazette": "BOA",
+     "issues": 0,
+     "entries": 0,
+     "staff_or_court": 0
+    },
+    {
+     "gazette": "BOIB",
+     "issues": 1,
+     "entries": 120,
+     "staff_or_court": 34
+    },
+    {
+     "regional_hits": 14,
+     "dropped": {
+      "no rule or no cards": 325,
+      "notice to named people": 62,
+      "town not live": 56,
+      "other local body": 20
+     }
+    }
+   ]
+  }
+ ],
+ "laws_since": "2026-11-21",
+ "packs": {
+  "PT": {
+   "I": [
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "II": [
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ]
+  },
+  "FR": {
+   "JORF": [
+    "JORF_20261115-002320.tar.gz",
+    "JORF_20261115-205552.tar.gz",
+    "JORF_20261116-104909.tar.gz",
+    "JORF_20261116-212357.tar.gz",
+    "JORF_20261117-014236.tar.gz",
+    "JORF_20261117-212708.tar.gz",
+    "JORF_20261118-002608.tar.gz",
+    "JORF_20261118-214555.tar.gz",
+    "JORF_20261119-020543.tar.gz",
+    "JORF_20261119-214726.tar.gz",
+    "JORF_20261120-004838.tar.gz",
+    "JORF_20261120-222218.tar.gz",
+    "JORF_20261121-010907.tar.gz"
+   ]
+  }
+ },
+ "regional": {
+  "BOJA": {
+   "read": {
+    "http://www.juntadeandalucia.es/boja/2026/220/": "2026-11-13",
+    "http://www.juntadeandalucia.es/boja/2026/222001/": "2026-11-13",
+    "http://www.juntadeandalucia.es/boja/2026/222002/": "2026-11-13",
+    "http://www.juntadeandalucia.es/boja/2026/221/": "2026-11-16",
+    "http://www.juntadeandalucia.es/boja/2026/222101/": "2026-11-16",
+    "http://www.juntadeandalucia.es/boja/2026/222102/": "2026-11-16",
+    "http://www.juntadeandalucia.es/boja/2026/222/": "2026-11-17",
+    "http://www.juntadeandalucia.es/boja/2026/222301/": "2026-11-18",
+    "http://www.juntadeandalucia.es/boja/2026/222302/": "2026-11-18",
+    "http://www.juntadeandalucia.es/boja/2026/223/": "2026-11-18",
+    "http://www.juntadeandalucia.es/boja/2026/222401/": "2026-11-19",
+    "http://www.juntadeandalucia.es/boja/2026/222402/": "2026-11-19",
+    "http://www.juntadeandalucia.es/boja/2026/224/": "2026-11-19",
+    "http://www.juntadeandalucia.es/boja/2026/222501/": "2026-11-20",
+    "http://www.juntadeandalucia.es/boja/2026/225/": "2026-11-20"
+   },
+   "last_ok": "2026-11-21",
+   "last_issue": "2026-11-20"
+  },
+  "BOCM": {
+   "read": {
+    "bocm-20261109-269": "2026-11-09",
+    "bocm-20261110-270": "2026-11-10",
+    "bocm-20261111-271": "2026-11-11",
+    "bocm-20261112-272": "2026-11-12",
+    "bocm-20261113-273": "2026-11-13",
+    "bocm-20261114-274": "2026-11-14",
+    "bocm-20261116-275": "2026-11-16",
+    "bocm-20261117-276": "2026-11-17",
+    "bocm-20261118-277": "2026-11-18",
+    "bocm-20261119-278": "2026-11-19",
+    "bocm-20261120-279": "2026-11-20",
+    "bocm-20261121-280": "2026-11-21"
+   },
+   "last_ok": "2026-11-21",
+   "last_issue": "2026-11-21"
+  },
+  "DOG": {
+   "read": {
+    "2026-11-16": "2026-11-16",
+    "2026-11-17": "2026-11-17",
+    "2026-11-18": "2026-11-18",
+    "2026-11-19": "2026-11-19",
+    "2026-11-20": "2026-11-20"
+   },
+   "last_ok": "2026-11-21",
+   "last_issue": "2026-11-20"
+  },
+  "BOCYL": {
+   "read": {
+    "https://bocyl.jcyl.es/boletin.do?fechaBoletin=16/11/2026&edicion=221": "2026-11-16",
+    "https://bocyl.jcyl.es/boletin.do?fechaBoletin=17/11/2026&edicion=222": "2026-11-17",
+    "https://bocyl.jcyl.es/boletin.do?fechaBoletin=18/11/2026&edicion=223": "2026-11-18",
+    "https://bocyl.jcyl.es/boletin.do?fechaBoletin=19/11/2026&edicion=224": "2026-11-19",
+    "https://bocyl.jcyl.es/boletin.do?fechaBoletin=20/11/2026&edicion=225": "2026-11-20"
+   },
+   "last_ok": "2026-11-21",
+   "last_issue": "2026-11-20"
+  },
+  "BOCAN": {
+   "read": {
+    "2026-11-09": "2026-11-09",
+    "2026-11-10": "2026-11-10",
+    "2026-11-11": "2026-11-11",
+    "2026-11-12": "2026-11-12",
+    "2026-11-13": "2026-11-13",
+    "2026-11-16": "2026-11-16",
+    "2026-11-17": "2026-11-17",
+    "2026-11-18": "2026-11-18",
+    "2026-11-19": "2026-11-19",
+    "2026-11-20": "2026-11-20"
+   },
+   "last_ok": "2026-11-21",
+   "last_issue": "2026-11-20"
+  },
+  "BOA": {
+   "read": {
+    "2026-11-09": "2026-11-09",
+    "2026-11-10": "2026-11-10",
+    "2026-11-11": "2026-11-11",
+    "2026-11-12": "2026-11-12",
+    "2026-11-13": "2026-11-13",
+    "2026-11-14": "2026-11-14",
+    "2026-11-15": "2026-11-15",
+    "2026-11-16": "2026-11-16",
+    "2026-11-17": "2026-11-17",
+    "2026-11-18": "2026-11-18",
+    "2026-11-19": "2026-11-19",
+    "2026-11-20": "2026-11-20"
+   },
+   "last_ok": "2026-11-21",
+   "last_issue": "2026-11-20"
+  },
+  "BOIB": {
+   "read": {
+    "https://www.caib.es/eboibfront/es/2026/12357": "2026-11-10",
+    "https://www.caib.es/eboibfront/es/2026/12360": "2026-11-10",
+    "https://www.caib.es/eboibfront/es/2026/12358": "2026-11-12",
+    "https://www.caib.es/eboibfront/es/2026/12359": "2026-11-14",
+    "https://www.caib.es/eboibfront/es/2026/12361": "2026-11-17",
+    "https://www.caib.es/eboibfront/es/2026/12362": "2026-11-19",
+    "https://www.caib.es/eboibfront/es/2026/12364": "2026-11-20",
+    "https://www.caib.es/eboibfront/es/2026/12363": "2026-11-21"
+   },
+   "last_ok": "2026-11-21",
+   "last_issue": "2026-11-21"
+  }
+ }
+}
