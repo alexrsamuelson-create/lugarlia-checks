@@ -1,0 +1,117 @@
+{
+ "about": "One line per run of this job (kb/run_log.py, audit A2-018): when, where and its main counts.",
+ "runs": [
+  {
+   "at": "2026-11-18T09:17:19Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-18",
+   "days_read": 12,
+   "entries": 1026,
+   "hits": 9,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-19T09:18:04Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-19",
+   "days_read": 21,
+   "entries": 1833,
+   "hits": 5,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-20T09:17:23Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-20",
+   "days_read": 14,
+   "entries": 1309,
+   "hits": 5,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-21T09:17:20Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-21",
+   "days_read": 14,
+   "entries": 1320,
+   "hits": 4,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-22T09:17:14Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-22",
+   "days_read": 14,
+   "entries": 832,
+   "hits": 0,
+   "boe_missing": [
+    "2026-11-22"
+   ]
+  },
+  {
+   "at": "2026-11-23T09:17:18Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-23",
+   "days_read": 13,
+   "entries": 1143,
+   "hits": 2,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-24T09:17:34Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-24",
+   "days_read": 27,
+   "entries": 2184,
+   "hits": 34,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-25T09:17:41Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-25",
+   "days_read": 20,
+   "entries": 2218,
+   "hits": 33,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-26T09:20:46Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-26",
+   "days_read": 20,
+   "entries": 2228,
+   "hits": 29,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-27T09:20:36Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-27",
+   "days_read": 20,
+   "entries": 2187,
+   "hits": 23,
+   "boe_missing": []
+  },
+  {
+   "at": "2026-11-28T09:20:34Z",
+   "job": "gazette",
+   "where": "server",
+   "last_date": "2026-11-28",
+   "days_read": 20,
+   "entries": 2073,
+   "hits": 21,
+   "boe_missing": []
+  }
+ ]
+}
