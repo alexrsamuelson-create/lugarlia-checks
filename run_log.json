@@ -1,0 +1,271 @@
+{
+ "about": "One line per run of this job (kb/run_log.py, audit A2-018): when, where and its main counts.",
+ "runs": [
+  {
+   "at": "2026-11-18T02:20:35Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-18",
+   "links": 16389,
+   "checked": 14323,
+   "skipped_blocked": 2066,
+   "changes": {
+    "broken": 46,
+    "content_changed": 1020,
+    "recovered": 122,
+    "moved": 14,
+    "refusing": 5,
+    "new": 7,
+    "figure_missing": 1,
+    "anchor_changed": 45
+   },
+   "cards": {
+    "confirmed": 7045,
+    "blocked": 684,
+    "unreadable": 136,
+    "flagged": 38,
+    "watched": 255,
+    "anchored": 14
+   }
+  },
+  {
+   "at": "2026-11-19T02:18:22Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-19",
+   "links": 19759,
+   "checked": 17682,
+   "skipped_blocked": 2077,
+   "changes": {
+    "broken": 131,
+    "content_changed": 960,
+    "recovered": 188,
+    "new": 463,
+    "moved": 10,
+    "refusing": 69,
+    "figure_missing": 4,
+    "anchor_changed": 58
+   },
+   "cards": {
+    "confirmed": 7027,
+    "flagged": 47,
+    "blocked": 828,
+    "unreadable": 152,
+    "anchored": 1635,
+    "watched": 353
+   }
+  },
+  {
+   "at": "2026-11-20T02:26:54Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-20",
+   "links": 20674,
+   "checked": 18325,
+   "skipped_blocked": 2349,
+   "changes": {
+    "broken": 94,
+    "content_changed": 1176,
+    "recovered": 240,
+    "new": 106,
+    "refusing": 29,
+    "moved": 108,
+    "figure_missing": 1,
+    "anchor_changed": 159
+   },
+   "cards": {
+    "confirmed": 8303,
+    "anchored": 431,
+    "blocked": 912,
+    "unreadable": 256,
+    "watched": 357,
+    "flagged": 114
+   }
+  },
+  {
+   "at": "2026-11-21T02:21:05Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-21",
+   "links": 20676,
+   "checked": 18258,
+   "skipped_blocked": 2418,
+   "changes": {
+    "content_changed": 1238,
+    "refusing": 4,
+    "recovered": 381,
+    "moved": 40,
+    "broken": 60,
+    "figure_missing": 5,
+    "anchor_changed": 103
+   },
+   "cards": {
+    "confirmed": 8826,
+    "unreadable": 219,
+    "blocked": 834,
+    "flagged": 98,
+    "anchored": 65,
+    "watched": 331
+   }
+  },
+  {
+   "at": "2026-11-22T02:24:59Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-22",
+   "links": 20749,
+   "checked": 18325,
+   "skipped_blocked": 2424,
+   "changes": {
+    "broken": 56,
+    "content_changed": 552,
+    "recovered": 110,
+    "moved": 12,
+    "new": 14,
+    "refusing": 7,
+    "anchor_changed": 35
+   },
+   "cards": {
+    "confirmed": 8828,
+    "flagged": 31,
+    "blocked": 845,
+    "unreadable": 231,
+    "watched": 379,
+    "anchored": 63
+   }
+  },
+  {
+   "at": "2026-11-23T02:21:43Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-23",
+   "links": 20749,
+   "checked": 18728,
+   "skipped_blocked": 2021,
+   "changes": {
+    "content_changed": 575,
+    "recovered": 151,
+    "moved": 12,
+    "broken": 44,
+    "refusing": 1,
+    "anchor_changed": 29
+   },
+   "cards": {
+    "unreadable": 281,
+    "watched": 340,
+    "confirmed": 8860,
+    "blocked": 832,
+    "anchored": 39,
+    "flagged": 25
+   }
+  },
+  {
+   "at": "2026-11-25T16:59:49Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-25",
+   "links": 33269,
+   "checked": 30843,
+   "skipped_blocked": 2426,
+   "changes": {
+    "broken": 109,
+    "content_changed": 1400,
+    "new": 814,
+    "recovered": 256,
+    "moved": 38,
+    "refusing": 11,
+    "figure_missing": 8,
+    "anchor_changed": 154
+   },
+   "cards": {
+    "unreadable": 468,
+    "anchored": 5378,
+    "confirmed": 8500,
+    "blocked": 1043,
+    "flagged": 138,
+    "watched": 546
+   }
+  },
+  {
+   "at": "2026-11-26T02:32:52Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-26",
+   "links": 33410,
+   "checked": 30253,
+   "skipped_blocked": 3157,
+   "changes": {
+    "content_changed": 777,
+    "moved": 19,
+    "broken": 112,
+    "recovered": 191,
+    "new": 7,
+    "refusing": 43,
+    "figure_missing": 1,
+    "anchor_changed": 90
+   },
+   "cards": {
+    "unreadable": 524,
+    "flagged": 72,
+    "confirmed": 13862,
+    "blocked": 1063,
+    "watched": 560,
+    "anchored": 71
+   }
+  },
+  {
+   "at": "2026-11-27T02:39:15Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-27",
+   "links": 33695,
+   "checked": 30492,
+   "skipped_blocked": 3203,
+   "changes": {
+    "content_changed": 1282,
+    "moved": 18,
+    "recovered": 175,
+    "broken": 101,
+    "refusing": 13,
+    "new": 16,
+    "figure_missing": 9,
+    "anchor_changed": 137
+   },
+   "cards": {
+    "unreadable": 454,
+    "anchored": 202,
+    "confirmed": 13840,
+    "blocked": 1120,
+    "flagged": 129,
+    "watched": 548
+   }
+  },
+  {
+   "at": "2026-11-28T02:39:59Z",
+   "job": "link",
+   "where": "server",
+   "date": "2026-11-28",
+   "links": 34171,
+   "checked": 30941,
+   "skipped_blocked": 3230,
+   "changes": {
+    "broken": 96,
+    "content_changed": 1336,
+    "moved": 29,
+    "recovered": 214,
+    "new": 23,
+    "refusing": 4,
+    "figure_missing": 5,
+    "anchor_changed": 121
+   },
+   "cards": {
+    "unreadable": 668,
+    "flagged": 104,
+    "confirmed": 13803,
+    "blocked": 1153,
+    "watched": 571,
+    "anchored": 198
+   }
+  }
+ ]
+}
